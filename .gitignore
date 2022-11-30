@@ -1,6 +1,6 @@
 /gameAsset
 /phaserTest.html
 /resource/nameform.html
-/resource/test
-/resource/client.js
-/resource/save.js
+/resource/js/test
+/resource/js/client.js
+/resource/js/save.js
